@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: inetBanking_V1com.inetbanking.testCases.TC_001_LoginTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 73.023 s - in inetBanking_V1com.inetbanking.testCases.TC_001_LoginTest
